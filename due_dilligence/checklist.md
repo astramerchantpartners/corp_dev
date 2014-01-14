@@ -9,13 +9,17 @@ b) Operating (or equivalent) Agreement and any other Shareholders’ or similar 
 
 ### 2)	Business Plan and Financials.
 
-a)	Current Business Plan and any financial projections, including “burn rate” and cost of existing and intended operations.  
+a)  Up-to-date Investor Presentation.
 
-b)	Most recent financial statements, including salaries and core vendor payments. 
+b)	Current Business Plan with key metrics, financials and projections, including “burn rate” and cost of existing and intended operations. Include performance against historical budget and operations targets.  
 
-c)	Description of internal controls, including auditing.
+c)  Sales Pipeline.
 
-d)	Recent bank statements and tax returns.
+d)	Most recent financial statements, including salaries and core vendor payments. 
+
+e)	Description of internal controls, including auditing.
+
+f)	Recent bank statements and tax returns.
 
 ### 3)	Intellectual Property (“IP”). 
 
@@ -29,13 +33,17 @@ a)	Capitalization Table fully accounting for all shares, warrants, and options. 
 
 b)	Information on recent and/or current capital raise. 
 
-### 5)	Information Regarding Employees. 
+### 5)	Information Regarding Founders and Employees. 
 
 a)	Organization Chart (including # of employees by department). 
 
-b)	Biographies of Key Personnel and overview of the Technology team. Include employment terms, including compensation (along with means of determination) and length of time with the Company.
+b)	Biographies of Key Personnel (Founders and C-Suite) and overview of the Technology team. Include summary of employment terms, including compensation (along with means of determination) and length of time with the Company.
 
-c)	A list of all officers and directors. If any officers are not currently devoting 100% of their business time to the Company, please note them on the list. 
+c)	A list of all officers and directors. If any officers are not currently devoting 100% of their business time to the Company, please note them on the list.
+
+d)  Employment Agreements, esp. IP assigments and non-compete/disparagement clauses. 
+
+e)  Personal and professional references for all Key Personnel. 
 
 ### 6)	Information Regarding Disputes and Potential Litigation. 
 
@@ -43,16 +51,18 @@ a)	Any correspondence or documents relating to any prior, pending or threatened 
 
 b)	Any correspondence or documents relating to allegations of the Company’s infringement of the proprietary rights of others. 
 
-### 7)	Material Agreements. 
+### 7)	Material Agreements 
 
 a)	Any agreements, understandings, instruments, contracts, or proposed transactions to which the Company is a party or by which it is bound which involves obligations of, or payments to, the Company in excess of $10,000. 
 
-b)	Any documents evidencing indebtedness for money borrowed and any other liabilities incurred by the Company. 
+b)	Any documents evidencing indebtedness for money borrowed and any other liabilities incurred by the Company.
 
 c)	Any other material document(s) you may deem relevant to an initial due diligence review of the Company. 
 
 ### 8)	Clients and Market
 
-a)	Reference clients with contact information and a description of relationship and history.
+a)	Client Contracts and Testimonials. Plus, 3 to 5 reference clients with contact information and brief description of relationship and history.
 
 b)	Description of market Company operates in and annotated list of leading competitors in the area(s) Company intends to do business. 
+
+c) Management discussion of competitive advantage and market risks.
