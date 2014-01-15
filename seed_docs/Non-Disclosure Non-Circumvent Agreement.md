@@ -2,9 +2,9 @@
 NON-DISCLOSURE AGREEMENT 
 ========================
   
-This Non-disclosure Agreement (this "**Agreement**") is made effective as of [Date] (the "**Effective Date**"), by and between [Owner] (the "**Owner**"), of [Address], [City], [State] [Zip], and [Recipient] (the "**Recipient**"), of [Address], [City], [State] [Zip]. 
+This Non-disclosure Agreement (this "**Agreement**") is made effective as of \[Date\] (the "**Effective Date**"), by and between \[Owner\] (the "**Owner**"), of \[Address\], \[City\], \[State\] \[Zip\], and \[Recipient\] (the "**Recipient**"), of \[Address\], \[City\], \[State\] \[Zip\]. 
   
-The Owner is [engaged in the business of...] The Recipient is [a firm that specialized in ...]. [Reason for disclosure "Information will be disclosed to"]. The Owner has requested and the Recipient agrees that the Recipient will protect the confidential material and information which may be disclosed between the Owner and the Recipient. Therefore, the parties agree as follows. 
+The Owner is \[engaged in the business of...\] The Recipient is \[a firm that specialized in ...\]. \[Reason for disclosure "Information will be disclosed to"\]. The Owner has requested and the Recipient agrees that the Recipient will protect the confidential material and information which may be disclosed between the Owner and the Recipient. Therefore, the parties agree as follows. 
   
 **I. CONFIDENTIAL INFORMATION.** The term "Confidential Information" means any information or material which is proprietary to the Owner, whether or not owned or developed by the Owner, which is not generally known other than by the Owner, and which the Recipient may obtain through any direct or indirect contact with the Owner. 
   
@@ -49,14 +49,15 @@ The Owner is [engaged in the business of...] The Recipient is [a firm that speci
   
 **X. ATTORNEY FEES.** In any legal action between the parties concerning this Agreement, the prevailing party shall be entitled to recover reasonable attorneys fees and costs. 
   
-**XI. GENERAL PROVISIONS.** This Agreement sets forth the entire understanding of the parties regarding confidentiality. The obligations of confidentiality shall survive indefinitely from the date of disclosure of the Confidential Information. Any amendments must be in writing and signed by both parties. This Agreement shall be construed under the laws of the State of Alabama. This Agreement shall not be assignable by either party. Neither party may delegate its duties under this Agreement without the prior written consent of the other party. The confidentiality provisions of this Agreement shall remain in full force and effect at all times after the effective date of this Agreement. If any provision of this Agreement is held to be invalid, illegal or unenforceable, the remaining portions of this Agreement shall remain in full force and effect and construed so as to best effectuate the original intent and purpose of this Agreement. 
+**XI. GENERAL PROVISIONS.** This Agreement sets forth the entire understanding of the parties regarding confidentiality. The obligations of confidentiality shall survive indefinitely from the date of disclosure of the Confidential Information. Any amendments must be in writing and signed by both parties. This Agreement shall be construed under the laws of the State of \[State\]. This Agreement shall not be assignable by either party. Neither party may delegate its duties under this Agreement without the prior written consent of the other party. The confidentiality provisions of this Agreement shall remain in full force and effect at all times after the effective date of this Agreement. If any provision of this Agreement is held to be invalid, illegal or unenforceable, the remaining portions of this Agreement shall remain in full force and effect and construed so as to best effectuate the original intent and purpose of this Agreement. 
   
 **XII. SIGNATORIES.** This Agreement shall be executed by _________________ and _________________ and delivered in the manner prescribed by law as of the date first written above. 
   
   
   
-**OWNER:** 
-[Owner] 
+**OWNER:**
+
+\[Owner\] 
   
   
   
@@ -65,8 +66,9 @@ By:	_______________________________
   
   
   
-**RECIPIENT:** 
-[Recipient] 
+**RECIPIENT:**
+
+\[Recipient\] 
   
 By:	_______________________________ 
     _________________ 
