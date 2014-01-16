@@ -1,28 +1,27 @@
 ADVISORY BOARD AGREEMENT
 ========================
 
-This Advisory Board Agreement (the "**Agreement**") is made effective as of `Date`, (the "Effective Date") by and between `Company`, a `Company Type` (the **"Company"), and `Advisor Name` (the "Advisor").
+This Advisory Board Agreement (the "**Agreement**") is made effective as of `Date`, (the "**Effective Date**") by and between `Company`, a `Company Type` (the "**Company**"), and `Advisor Name` (the "**Advisor**").
 
-## RECITALS 
+**RECITALS** 
 
-A.	Company desires to obtain the services of Advisor to serve on the Company’s Board of
-Advisors (the “AB”), and the Advisor desires to serve on the AB, upon the following terms and conditions.
+**A.** Company desires to obtain the services of Advisor to serve on the Company’s Board of Advisors (the “**Advisory Board**”), and the Advisor desires to serve on the AB, upon the following terms and conditions.
 
-B.	Company has spent significant time, effort, and money to develop certain Proprietary Information (as defined below), which Company considers vital to its business and goodwill.
+**B.**  Company has spent significant time, effort, and money to develop certain Proprietary Information (as defined below), which Company considers vital to its business and goodwill.
 
-C.	The Proprietary Information may necessarily be communicated to or received by Advisor in the course of serving on the AB for the Company, and Company desires to obtain the Services of Advisor, only if, in doing so, it can protect its Proprietary Information and goodwill.
+**C.**  The Proprietary Information may necessarily be communicated to or received by Advisor in the course of serving on the Advisory Board for the Company, and Company desires to obtain the Services of Advisor, only if, in doing so, it can protect its Proprietary Information and goodwill.
 
-D.	Company does not, however, desire to receive from Advisor, or for Advisor to either induce the use of or use in connection with the performance of the Services, any information which is confidential to or ownership of which resides in a third party, whether acquired either prior to or subsequent to Advisor's retention hereunder.
+**D.** Company does not, however, desire to receive from Advisor, or for Advisor to either induce the use of or use in connection with the performance of the Services, any information which is confidential to or ownership of which resides in a third party, whether acquired either prior to or subsequent to Advisor's retention hereunder.
 
-## AGREEMENT
+**AGREEMENT**
 
-NOW, THEREFORE, the parties hereto hereby agree as follows:
+Now, therefore, the parties hereto hereby agree as follows:
 
-1.	Advisory Board Member. Company hereby retains Advisor to serve on its Advisory Board. . The term of this Agreement (the “Term”) shall be the period commencing on the Effective Date and terminating upon three (3) days prior written notice delivered by either party to the other for any reason. Upon any termination of the Services as provided in the preceding sentence, this Agreement shall terminate except that the provisions set forth in Sections 2.b, 4 and 6 of this Agreement shall survive such termination.
+**1.  ADVISORY BOARD MEMBER.** Company hereby retains Advisor to serve on its Advisory Board. The term of this Agreement (the “**Term**”) shall be the period commencing on the Effective Date and terminating upon three (3) days prior written notice delivered by either party to the other for any reason. Upon any termination of the Services as provided in the preceding sentence, this Agreement shall terminate except that the provisions set forth in Sections 2.b, 4 and 6 of this Agreement shall survive such termination.
 
-2.	Position, Duties, Responsibilities.
+**2.  POSITION, DUTIES, RESPONSIBILITIES.**
 
-a.	Duties. Advisor shall perform those services (“Services”) as reasonably requested by the Company from time to time, including but not limited to the Services described on Exhibit A attached hereto. Advisor shall devote Advisor's commercially reasonable efforts and attention to the performance of the Services for the Company on a timely basis. Advisor shall also make himself available to answer questions, provide advice and provide Services to the Company upon reasonable request and notice from the Company.
+**(a)  Duties.** Advisor shall perform those services (“**Services**”) as reasonably requested by the Company from time to time, including but not limited to the Services described on Exhibit A attached hereto. Advisor shall devote Advisor's commercially reasonable efforts and attention to the performance of the Services for the Company on a timely basis. Advisor shall also make himself available to answer questions, provide advice and provide Services to the Company upon reasonable request and notice from the Company.
 
 b.	Independent Contractor; No Conflict. It is understood and agreed, and it is the intention of the parties hereto, that Advisor is an independent contractor, and not the employee, agent, joint venturer, or partner of Company for any purposes whatsoever. Advisor is skilled in providing the Services,. To the extent necessary, Advisor shall be solely responsible for any and all taxes related to the receipt of any compensation under this Agreement. Advisor hereby represents, warrants and covenants that Advisor has the right, power and authority to enter into this Agreement and that neither the execution nor delivery of this Agreement, nor the performance of the Services by Advisor will conflict with or result in a breach of the terms, conditions or provisions of, or constitute a default under, any contract, covenant or instrument under which Advisor is now or hereinafter becomes obligated.
 
