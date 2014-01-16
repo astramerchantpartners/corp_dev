@@ -3,7 +3,7 @@ ADVISORY BOARD AGREEMENT
 
 This Advisory Board Agreement (the "**Agreement**") is made effective as of `Date`, (the "**Effective Date**") by and between `Company`, a `Company Type` (the "**Company**"), and `Advisor Name` (the "**Advisor**").
 
-**RECITALS** 
+###RECITALS 
 
 **A.** Company desires to obtain the services of Advisor to serve on the Company’s Board of Advisors (the “**Advisory Board**”), and the Advisor desires to serve on the AB, upon the following terms and conditions.
 
@@ -13,7 +13,7 @@ This Advisory Board Agreement (the "**Agreement**") is made effective as of `Dat
 
 **D.** Company does not, however, desire to receive from Advisor, or for Advisor to either induce the use of or use in connection with the performance of the Services, any information which is confidential to or ownership of which resides in a third party, whether acquired either prior to or subsequent to Advisor's retention hereunder.
 
-**AGREEMENT**
+###AGREEMENT
 
 Now, therefore, the parties hereto hereby agree as follows:
 
