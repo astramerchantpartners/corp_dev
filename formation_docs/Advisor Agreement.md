@@ -1,6 +1,7 @@
-# ADVISORY BOARD AGREEMENT
+ADVISORY BOARD AGREEMENT
+========================
 
-** THIS ADVISORY BOARD AGREEMENT ** is made effective as of `Date`, (the "Effective Date") by and between `Company`, a `Company Type` (the **"Company"), and `Advisor Name` (the "Advisor").
+This Advisory Board Agreement (the "**Agreement**") is made effective as of `Date`, (the "Effective Date") by and between `Company`, a `Company Type` (the **"Company"), and `Advisor Name` (the "Advisor").
 
 ## RECITALS 
 
